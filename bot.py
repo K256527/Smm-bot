@@ -5,7 +5,7 @@ import qrcode
 from io import BytesIO
 
 # ================= CONFIGURATION =================
-BOT_TOKEN = '8995177384:AAHkHgYeZP6a9mYwp-G6D6rnrIKrD607RDs' 
+BOT_TOKEN = '8995177384:AAE-EObuSLlns_bKdHXtkifMMeVZRBQvWx0' 
 API_KEY = 'YOUR_SMM_API_KEY_HERE' 
 API_URL = 'https://YOUR_SMM_PANEL_URL/api/v2' 
 UPI_ID = 'YOUR_UPI_ID@upi' 
